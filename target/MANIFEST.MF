@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Financial
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: xrd-003
+Implementation-Vendor-Id: com.xrd
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_31
+Main-Class: ${start-class}
+

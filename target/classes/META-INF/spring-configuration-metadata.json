@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "name": "jhipster",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties"
+    },
+    {
+      "name": "jhipster.async",
+      "sourceMethod": "getAsync()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Async"
+    },
+    {
+      "name": "jhipster.cache",
+      "sourceMethod": "getCache()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Cache"
+    },
+    {
+      "name": "jhipster.http",
+      "sourceMethod": "getHttp()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Http"
+    },
+    {
+      "name": "jhipster.logging",
+      "sourceMethod": "getLogging()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Logging"
+    },
+    {
+      "name": "jhipster.mail",
+      "sourceMethod": "getMail()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Mail"
+    },
+    {
+      "name": "jhipster.metrics",
+      "sourceMethod": "getMetrics()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Metrics"
+    },
+    {
+      "name": "jhipster.ribbon",
+      "sourceMethod": "getRibbon()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Ribbon"
+    },
+    {
+      "name": "jhipster.security",
+      "sourceMethod": "getSecurity()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Security"
+    },
+    {
+      "name": "jhipster.swagger",
+      "sourceMethod": "getSwagger()",
+      "sourceType": "com.xrd.config.JHipsterProperties",
+      "type": "com.xrd.config.JHipsterProperties$Swagger"
+    }
+  ],
+  "hints": [],
+  "properties": []
+}
